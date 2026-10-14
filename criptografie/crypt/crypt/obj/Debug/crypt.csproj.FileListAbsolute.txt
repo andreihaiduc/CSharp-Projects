@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\bin\Debug\crypt.exe.config
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\bin\Debug\crypt.exe
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\bin\Debug\crypt.pdb
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.Form1.resources
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.exe
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.pdb
+C:\Users\admin\DesktopLocal\criptografie\crypt\crypt\obj\Debug\crypt.exe.config
