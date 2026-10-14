@@ -1,0 +1,12 @@
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.Form1.resources
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.pdb
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.exe.config
+C:\Users\admin\DesktopLocal\HANGMAN\hangman\hangman\obj\Debug\hangman.Form2.resources
