@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\bin\Debug\Penalty.exe
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\bin\Debug\Penalty.pdb
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.exe
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.pdb
+C:\Users\admin\DesktopLocal\Penalty\Penalty\Penalty\obj\Debug\Penalty.exe.config
