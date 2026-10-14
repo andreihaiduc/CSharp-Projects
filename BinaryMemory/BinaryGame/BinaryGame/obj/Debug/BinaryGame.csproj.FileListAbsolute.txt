@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe.config
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\bin\Debug\BinaryGame.exe
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\bin\Debug\BinaryGame.pdb
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.Form1.resources
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.exe
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.pdb
+C:\Users\admin\DesktopLocal\BinaryMemory\BinaryGame\BinaryGame\obj\Debug\BinaryGame.exe.config
