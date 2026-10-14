@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\bin\Debug\Mario.exe.config
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\bin\Debug\Mario.exe
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\bin\Debug\Mario.pdb
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.Form1.resources
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.exe
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.pdb
+C:\Users\admin\DesktopLocal\Mario\Mario\Mario\obj\Debug\Mario.exe.config
