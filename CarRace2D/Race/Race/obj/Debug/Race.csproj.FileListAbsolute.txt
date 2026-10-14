@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\bin\Debug\Race.exe.config
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\bin\Debug\Race.exe
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\bin\Debug\Race.pdb
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.Form1.resources
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.exe
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.pdb
+C:\Users\admin\DesktopLocal\CarRace2D\Race\Race\obj\Debug\Race.exe.config
