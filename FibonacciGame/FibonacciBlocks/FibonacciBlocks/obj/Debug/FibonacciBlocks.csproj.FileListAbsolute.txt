@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\bin\Debug\FibonacciBlocks.exe.config
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\bin\Debug\FibonacciBlocks.exe
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\bin\Debug\FibonacciBlocks.pdb
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.Form1.resources
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.exe
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.pdb
+C:\Users\admin\DesktopLocal\FibonacciGame\FibonacciBlocks\FibonacciBlocks\obj\Debug\FibonacciBlocks.exe.config
