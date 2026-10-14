@@ -1,0 +1,11 @@
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\bin\Debug\Fibo.exe.config
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\bin\Debug\Fibo.exe
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\bin\Debug\Fibo.pdb
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.csproj.AssemblyReference.cache
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.Form1.resources
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.Properties.Resources.resources
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.csproj.GenerateResource.cache
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.exe
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.pdb
+C:\Users\admin\DesktopLocal\Fibonacci\Fibo\Fibo\obj\Debug\Fibo.exe.config
